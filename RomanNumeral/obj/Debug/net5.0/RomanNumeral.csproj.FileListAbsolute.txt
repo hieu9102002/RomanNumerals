@@ -1,0 +1,16 @@
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\bin\Debug\net5.0\RomanNumeral.exe
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\bin\Debug\net5.0\RomanNumeral.deps.json
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\bin\Debug\net5.0\RomanNumeral.runtimeconfig.json
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\bin\Debug\net5.0\RomanNumeral.runtimeconfig.dev.json
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\bin\Debug\net5.0\RomanNumeral.dll
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\bin\Debug\net5.0\ref\RomanNumeral.dll
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\bin\Debug\net5.0\RomanNumeral.pdb
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\obj\Debug\net5.0\RomanNumeral.csproj.AssemblyReference.cache
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\obj\Debug\net5.0\RomanNumeral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\obj\Debug\net5.0\RomanNumeral.AssemblyInfoInputs.cache
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\obj\Debug\net5.0\RomanNumeral.AssemblyInfo.cs
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\obj\Debug\net5.0\RomanNumeral.csproj.CoreCompileInputs.cache
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\obj\Debug\net5.0\RomanNumeral.dll
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\obj\Debug\net5.0\ref\RomanNumeral.dll
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\obj\Debug\net5.0\RomanNumeral.pdb
+C:\Users\MSI GF\Desktop\Swinburne\programming challenge\RomanNumeral\RomanNumeral\obj\Debug\net5.0\RomanNumeral.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xcEstYo8jeSLNSkRWbVPD81Vz696yneutfDXZy61OR8alHt6oq9jUvlTDYynlFKeo9FajlEW3k/kovRfqWautQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI GF\\Desktop\\Swinburne\\programming challenge\\RomanNumeral\\RomanNumeral\\RomanNumeral.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI GF\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
